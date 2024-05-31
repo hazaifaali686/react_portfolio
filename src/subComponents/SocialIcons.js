@@ -39,6 +39,7 @@ const SocialIcons = (props) => {
         <a
           style={{ color: "inherit" }}
           target="_blank"
+          rel="noreferrer"
           href={"https://github.com"}
         >
           <Github
@@ -56,6 +57,7 @@ const SocialIcons = (props) => {
         <a
           style={{ color: "inherit" }}
           target="_blank"
+          rel="noreferrer"
           href={"https://twitter.com"}
         >
           <Twitter
@@ -73,6 +75,7 @@ const SocialIcons = (props) => {
         <a
           style={{ color: "inherit" }}
           target="_blank"
+          rel="noreferrer"
           href={"https://www.facebook.com/"}
         >
           <Facebook
@@ -90,6 +93,7 @@ const SocialIcons = (props) => {
         <a
           style={{ color: "inherit" }}
           target="_blank"
+          rel="noreferrer"
           href={"https://youtube.com"}
         >
           <YouTube
